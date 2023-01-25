@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="run" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+    <option name="VMOptions" value="--enable-experiment=records,patterns" />
+    <option name="filePath" value="$PROJECT_DIR$/bin/record_test.dart" />
+    <method v="2" />
+  </configuration>
+</component>

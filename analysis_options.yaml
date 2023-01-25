@@ -1,0 +1,6 @@
+include: package:lints/recommended.yaml
+
+analyzer:
+ enable-experiment:
+  - records
+  - patterns
